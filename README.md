@@ -7,7 +7,7 @@ Code is released under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) 
 
 ## Usage
 
-To play the game, download the [mrjack.jar](mrjack/out/artifacts/mrjack_jar/mrjack.jar) JAR file uploaded here or check out the whole project and build it yourself. You need at least **Java 8** on your system to run the game and the JDK of course if you wish to improve it.
+To play the game, download the [mrjack.jar](out/artifacts/mrjack_jar/mrjack.jar) JAR file uploaded here or check out the whole project and build it yourself. You need at least **Java 8** on your system to run the game and the JDK of course if you wish to improve it.
 
 Then run: `java -jar mrjack.jar`
 
