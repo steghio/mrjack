@@ -1,6 +1,8 @@
 # Mr Jack
 A text-based videogame implementing the board game [Mr Jack](http://www.hurricangames.com/game/mr-jack-london-2016)
 
+You can find FAQ, rules and reviews about it on [boardgamegeek](https://boardgamegeek.com/boardgame/21763/mr-jack)
+
 Code is released under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) ](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 **I am NOT affiliated with HurricanGames and/or the creators of the board game and do NOT own copyright to the game**.
