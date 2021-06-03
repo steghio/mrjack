@@ -3,7 +3,7 @@ A text-based videogame implementing the board game [Mr Jack](http://www.hurrican
 
 Code is released under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) ](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
-**I am NOT affiliated with HurricanGames and/or the creators of the board game and to NOT own copyright to the game**.
+**I am NOT affiliated with HurricanGames and/or the creators of the board game and do NOT own copyright to the game**.
 
 ## Usage
 
